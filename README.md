@@ -1,5 +1,5 @@
 ## Full-Stack osa0
-### Tehtävät
+### Tehtävät 1-6
 * Kaaviot:
   * [0.3](https://github.com/hjoonas/FS-0/tree/master/Kaaviot/osa0.3.png)
   * [0.4](https://github.com/hjoonas/FS-0/tree/master/Kaaviot/osa0.4.png)
